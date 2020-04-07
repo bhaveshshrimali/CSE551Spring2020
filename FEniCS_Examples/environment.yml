@@ -1,0 +1,8 @@
+name: bhaveshshrimali
+channels:
+  - conda-forge
+dependencies:
+  - fenics
+  - pip
+  - pip:
+    - -r ../requirements.txt
