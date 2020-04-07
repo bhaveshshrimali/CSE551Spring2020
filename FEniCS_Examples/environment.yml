@@ -1,4 +1,3 @@
-name: bhaveshshrimali
 channels:
   - conda-forge
 dependencies:
