@@ -3,5 +3,8 @@ channels:
 dependencies:
   - fenics
   - pip
+  - apt
+  - apt:
+    - -r ../apt.txt
   - pip:
     - -r ../requirements.txt
