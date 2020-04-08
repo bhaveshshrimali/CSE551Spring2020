@@ -2,9 +2,7 @@ channels:
   - conda-forge
 dependencies:
   - fenics
+  - texlive-full
   - pip
-  - apt
-  - apt:
-    - -r ../apt.txt
   - pip:
     - -r ../requirements.txt
