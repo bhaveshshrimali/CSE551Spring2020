@@ -6,3 +6,4 @@ seaborn
 pandas
 quadpy
 jupyterthemes
+jupyterlab_latex
