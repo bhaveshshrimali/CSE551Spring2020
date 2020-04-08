@@ -1,8 +1,9 @@
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - fenics
-  - texlive-full
+  - texlive-latex-full
   - pip
   - pip:
     - -r ../requirements.txt
