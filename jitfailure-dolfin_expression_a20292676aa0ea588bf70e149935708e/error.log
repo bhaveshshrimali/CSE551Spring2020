@@ -1,0 +1,8 @@
+/tmp/tmpzv0cu7u3/dolfin_expression_a20292676aa0ea588bf70e149935708e.cpp: In member function ‘virtual void dolfin::dolfin_expression_a20292676aa0ea588bf70e149935708e::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
+/tmp/tmpzv0cu7u3/dolfin_expression_a20292676aa0ea588bf70e149935708e.cpp:61:23: error: ‘a1’ was not declared in this scope
+           values[0] = a1/2*pow(x[1],2);
+                       ^~
+/tmp/tmpzv0cu7u3/dolfin_expression_a20292676aa0ea588bf70e149935708e.cpp:61:23: note: suggested alternative: ‘y1’
+           values[0] = a1/2*pow(x[1],2);
+                       ^~
+                       y1
