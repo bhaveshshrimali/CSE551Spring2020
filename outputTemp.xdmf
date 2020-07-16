@@ -1,0 +1,3 @@
+<Xdmf Version="3.0"><Domain><Grid Name="Grid"><Information Name="Information" Value="0">
+<![CDATA[<main />]]>
+</Information><Geometry GeometryType="XYZ"><DataItem DataType="Float" Dimensions="6776 3" Format="HDF" Precision="8">outputTemp.h5:/data0</DataItem></Geometry><Topology NumberOfElements="3292" TopologyType="Triangle_6"><DataItem DataType="Int" Dimensions="3292 6" Format="HDF" Precision="4">outputTemp.h5:/data1</DataItem></Topology><Attribute AttributeType="Vector" Center="Node" Name="temp"><DataItem DataType="Float" Dimensions="6776 2" Format="HDF" Precision="8">outputTemp.h5:/data2</DataItem></Attribute></Grid></Domain></Xdmf>
